@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "JinweiOS'Blog"
-  text: "想随便写点东西"
+  text: "想随便写点东西哈哈"
   tagline: My great project tagline
   actions:
     - theme: brand
